@@ -1,5 +1,5 @@
 from turtle import Turtle
-MOVE = 100
+MOVE = 80
 X_POS = -475
 
 # when we are initializing a turtle object what are we doing?
